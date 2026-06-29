@@ -1,34 +1,26 @@
 <div align="center">
 
-# justcoloneld
+<h1>justcoloneld</h1>
 
-**Full-Stack Developer & Web Designer — Florida Based**
+<p><strong>Full-Stack Developer & Web Designer — Florida Based</strong></p>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=justcoloneld&label=Profile%20Views&color=1a1a2e&style=flat)](https://github.com/justcoloneld)
+<img src="https://komarev.com/ghpvc/?username=justcoloneld&label=profile+views&color=1a1a2e&style=flat" alt="profile views"/>
 
 </div>
 
 ---
 
-### About me
+### Who I am
 
-Full-stack developer & web designer based in Florida. I build things end-to-end —
-from the backend logic to the pixel-level frontend. Currently pouring most of my
-time into Vyloft.
+Full-stack developer and web designer based in Florida. I work across the entire stack — backend logic, APIs, frontend design, deployment. I don't pick a side.
 
----
+Currently building **Vyloft** — EdTech software for schools that combines real-time student screen monitoring with a learning platform. Built for teachers who actually need to see what's happening in their classroom.
 
-### Vyloft
-
-> EdTech software built for schools — real-time student screen monitoring combined
-> with a learning platform, all in one place. Built for teachers who actually need
-> to know what's happening in their classroom.
-
-**[vyloft.com](https://vyloft.com)**
+→ **[vyloft.com](https://vyloft.com)**
 
 ---
 
-### Tech
+### Stack
 
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=white)
@@ -37,28 +29,27 @@ time into Vyloft.
 ![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![More](https://img.shields.io/badge/and_a_lot_more-0d1117?style=for-the-badge)
+![More](https://img.shields.io/badge/and_more-0d1117?style=for-the-badge)
 
 ---
 
-### Stats
+### Streak
 
 <div align="center">
 
-<img src="[https://github-readme-stats.vercel.app/api?username=justcoloneld&show_icons=true&theme=tokyonight&hide_border=true&count_private=true](https://streak-stats.demolab.com/?user=justcoloneld&theme=tokyonight&hide_border=true)" height="165"/>
 <img src="https://streak-stats.demolab.com/?user=justcoloneld&theme=tokyonight&hide_border=true" height="165"/>
 
 </div>
 
 ---
 
-### Contribution Snake
+### Snake
 
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/justcoloneld/justcoloneld/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/justcoloneld/justcoloneld/output/github-contribution-grid-snake.svg"/>
-  <img alt="snake animation" src="https://raw.githubusercontent.com/justcoloneld/justcoloneld/output/github-contribution-grid-snake.svg" width="100%"/>
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/justcoloneld/justcoloneld/output/github-contribution-grid-snake.svg" width="100%"/>
 </picture>
 </div>
 
