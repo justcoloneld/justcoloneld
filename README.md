@@ -73,7 +73,7 @@ Currently building **[Vyloft](https://vyloft.com)** — EdTech software for scho
 
 ---
 
-### Contribution snake, but make it move
+### my little snake
 
 <div align="center">
 <picture>
