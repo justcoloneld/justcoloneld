@@ -25,26 +25,6 @@ Full-stack developer and web designer based in Florida — database design, back
 
 ---
 
----
-
-
-## Stack
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=white)
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![and more](https://img.shields.io/badge/and_a_lot_more-0d1117?style=for-the-badge)
-
-</div>
-
----
-
 ## Stats
 
 <div align="center">
@@ -64,22 +44,10 @@ Full-stack developer and web designer based in Florida — database design, back
 
 ---
 
-## Activity
+## Contribution Graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=justcoloneld&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="activity graph"/>
-</div>
-
----
-
-## Contribution Snake
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/justcoloneld/justcoloneld/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/justcoloneld/justcoloneld/output/github-contribution-grid-snake.svg"/>
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/justcoloneld/justcoloneld/output/github-contribution-grid-snake.svg" width="100%"/>
-</picture>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=justcoloneld&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="contribution graph"/>
 </div>
 
 <br/>
