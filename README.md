@@ -6,12 +6,11 @@
 
 <div align="center">
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=9696A8&center=true&vCenter=true&width=650&lines=Python+%E2%80%A2+HTML+%E2%80%A2+CSS+%E2%80%A2+and+a+lot+more;Founder+%40+Vyloft+%E2%80%94+EdTech+for+schools;Full-stack+from+database+to+design;Florida+based+%E2%80%A2+FL350+and+climbing" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=9696A8&center=true&vCenter=true&width=650&lines=Python+%E2%80%A2+HTML+%E2%80%A2+CSS+%E2%80%A2+and+a+lot+more;Full-stack+from+database+to+design;Florida+based" alt="Typing SVG"/>
 </a>
 
 <br/><br/>
 
-<a href="https://vyloft.com"><img src="https://img.shields.io/badge/vyloft.com-0d1117?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 <img src="https://komarev.com/ghpvc/?username=justcoloneld&label=Profile+Views&color=0d1117&style=for-the-badge" alt="profile views"/>
 
 </div>
@@ -22,33 +21,12 @@
 
 ## About
 
-Full-stack developer and web designer based in Florida. I work across the entire stack — database design, backend APIs, frontend UI, deployment. I don't pick a side.
-
-Currently the founder and lead developer of **[Vyloft](https://vyloft.com)**.
+Full-stack developer and web designer based in Florida — database design, backend APIs, frontend UI, and deployment, end to end.
 
 ---
 
-## Vyloft
-
-<div align="center">
-
-```
-  Real-time student screen monitoring + a full learning platform.
-  Built for teachers who need to know what's actually happening
-  in their classroom — not guess.
-```
-
-</div>
-
-**What it does:**
-- 🖥️ **Live screen monitoring** — see every student's screen in real time
-- 📚 **Built-in learning platform** — lessons, assignments, and resources in one place
-- 🏫 **Built for schools** — designed around how classrooms actually work
-- 🔒 **Teacher controls** — block, focus, and manage from a single dashboard
-
-**→ [vyloft.com](https://vyloft.com)**
-
 ---
+
 
 ## Stack
 
@@ -94,7 +72,7 @@ Currently the founder and lead developer of **[Vyloft](https://vyloft.com)**.
 
 ---
 
-## my little snake
+## Contribution Snake
 
 <div align="center">
 <picture>
@@ -105,11 +83,5 @@ Currently the founder and lead developer of **[Vyloft](https://vyloft.com)**.
 </div>
 
 <br/>
-
-<div align="center">
-
-[![vyloft.com](https://img.shields.io/badge/vyloft.com-0d1117?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vyloft.com)
-
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer" width="100%"/>
